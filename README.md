@@ -30,3 +30,13 @@ Here is a snippet of my resume if you're lookin' for some talent to add to your 
      * Created Training Log app for internal teams, using Blazor Framework +Windows Auth as sole developer
      * Using Azure DevOps and TFS, contributed features such as add admin page to set expiration dates when creating new quotes to internal portal
      * Interact w/ Product Owner(s) to get better understanding of UserStories/Tasks
+
+
+## Education
+
+#### Middle Tennessee State University 
+   - B.S. Computer Science 
+ 
+ #### Nashville Software School
+   - Full Stack Web Development Certificate 
+   
