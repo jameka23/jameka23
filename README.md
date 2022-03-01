@@ -13,7 +13,7 @@ Here is a snippet of my resume if you're lookin' for some talent to add to your 
 ## Experience 
 1. ### Jr. iOS Developer 
     ##### Celero Commerce | Jan 2022 - Current
-    * Assist with squashing bugs for our version 7 of the current RazorSync app
+    * Assist with squashing bugs for release of a new version 7 of the current RazorSync app which was a complete overhaul of UI & Swift conversion
 
      
 2. ### Software Developer II
