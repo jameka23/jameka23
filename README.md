@@ -2,16 +2,16 @@
 
 
 - 🔭 My team and I won 1st 🥇 place Girls In Tech - Hackathon that was sponsored by Nike! The app is called SafeSpace. 
-- 🌱 I’m currently learning iOS Development & getting my UI Mobile Design skills up. 
+- 🌱 I create apps using Swift and some SwiftUI during my down time. 
 - 🤔 I’m looking for help with all things mobile, specifically native iOS and I'm down to get more Next.js hands on projects.
 
-- 📫 How to reach me: jameka.echols@gmail.com
-- 👩🏽‍💻 LinkedIn: https://www.linkedin.com/in/jameka-echols/
+- 📫 How to reach me: hirme@jeechols.com
+- 👩🏽‍💻 LinkedIn: https://www.linkedin.com/in/je-echols
 
 Here is a snippet of my resume if you're lookin' for some talent to add to your dev team 😉
 
 ## Experience 
-1. ### Jr. iOS Developer 
+1. ### iOS Engineer II
     ##### Celero Commerce | Jan 2022 - Current
     * Assist with squashing bugs for release of a new version 7 of the current RazorSync app which was a complete overhaul of UI & Swift conversion
 
