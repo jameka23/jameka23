@@ -1,7 +1,7 @@
-### Heyyyy y'all! I'm Jameka! 👋🏽
+### Heyyyy y'all! I'm Jay! 👋
 
 
-- 🔭 My team and I won 1st 🥇 place Girls In Tech - Hackathon that was sponsored by Nike! The app is called SafeSpace. 
+- 🔭 My team and I won 1st 🥇 place In Tech - Hackathon that was sponsored by Nike! The app is called SafeSpace. 
 - 🌱 I create apps using Swift and some SwiftUI during my down time. 
 - 🤔 I’m looking for help with all things mobile, specifically native iOS and I'm down to get more Next.js hands on projects.
 
