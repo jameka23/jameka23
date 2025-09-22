@@ -1,9 +1,10 @@
-### Heyyyy y'all! I'm Jay! 👋
+### Heyyyy y'all! I'm Jameka! 👋
 
 
 - 🔭 My team and I won 1st 🥇 place In Tech - Hackathon that was sponsored by Nike! The app is called SafeSpace. 
 - 🌱 I create apps using Swift and some SwiftUI during my down time. 
-- 🤔 I’m looking for help with all things mobile, specifically native iOS and I'm down to get more Next.js hands on projects.
+- 🤔 I’m looking for help with all things mobile, specifically native iOS and I'm down to learn new things everyday.
+- Teaching is also something I love to do. During my time as an instructor at Nashville Software School, I helped over 150 adult learners, understand the work of backend development.
 
 - 📫 How to reach me: hirme@jeechols.com
 - 👩🏽‍💻 LinkedIn: https://www.linkedin.com/in/je-echols
